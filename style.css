@@ -130,23 +130,16 @@ HERO
 =========================== */
 
 .hero{
-
     width:90%;
-
     max-width:1200px;
-
     min-height:100vh;
-
     margin:auto;
-
     display:flex;
-
     align-items:center;
-
     justify-content:space-between;
-
     gap:70px;
 
+    padding-top:80px;   /* <-- Add this */
 }
 
 .hero-left{
