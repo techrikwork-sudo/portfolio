@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://techrikwork-sudo.github.io/sitemap.xml
